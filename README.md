@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpit_pardesi" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_pardesi?logo=twitter&style=for-the-badge" alt="arpit_pardesi" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, React, PySpark**
+- 🌱 I’m currently learning **Machine Learning, React, Data Analysis, PySpark**
 
 - 💬 Ask me about **Python, ML, Power Platform, SQL, Sharepoint**
 
